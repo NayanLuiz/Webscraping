@@ -21,11 +21,11 @@ st.markdown("### 2. Digite 5 termos")
 termos_texto = st.text_area(
     "Separe os termos por vírgula:",
     value=(
-        "Universidade Federal do Rio Grande do Norte, "
-        "Ciência de Dados, "
-        "Aprendizado de Máquina, "
-        "Engenharia de Software, "
-        "Armazém de Dados"
+        "Prova, "
+        "Ciência, "
+        "Livro, "
+        "Conhecimento, "
+        "Dados"
     ),
     height=100
 )
